@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="../assets/logo.png" width="100" alt="Logo"> 
+    <img src="https://raw.githubusercontent.com/LogisticWeb/.github/main/assets/logo.png" width="100" alt="Logo"> 
 </div>
 
 &nbsp;
@@ -31,9 +31,9 @@ We are proficient in a wide range of technologies and frameworks, including but 
 
 <div>
     <a style="margin-right: 10px;" href="https://github.com/fedetomassini" target="_blank">
-        <img src="../assets/developers/federicotomassini.png" width="80" alt="-">
+        <img src="https://raw.githubusercontent.com/LogisticWeb/.github/main/assets/developers/federicotomassini.png" width="80" alt="-">
     </a>
     <a href="https://github.com/FakuKostasDvlpr" target="_blank">
-        <img src="../assets/developers/facundocostas.png" width="80" alt="-">
+        <img src="https://raw.githubusercontent.com/LogisticWeb/.github/main/assets/developers/facundocostas.png" width="80" alt="-">
     </a>
 </div>
