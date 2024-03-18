@@ -26,14 +26,3 @@ We are proficient in a wide range of technologies and frameworks, including but 
 ### 📒 Contact Us
 - **Email**: [contact@yourorganization.com](mailto:contact@yourorganization.com)
 - **Website**: [www.soon.com](https://www.soon.com)
-
-### ☕ Developers
-
-<div>
-    <a style="margin-right: 10px;" href="https://github.com/fedetomassini" target="_blank">
-        <img src="https://raw.githubusercontent.com/CodeamosParaVos/.github/main/assets/developers/federicotomassini.png" width="80" alt="-">
-    </a>
-    <a href="https://github.com/FakuKostasDvlpr" target="_blank">
-        <img src="https://raw.githubusercontent.com/CodeamosParaVos/.github/main/assets/developers/facundocostas.png" width="80" alt="-">
-    </a>
-</div>
