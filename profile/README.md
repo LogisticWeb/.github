@@ -5,7 +5,7 @@
 &nbsp;
 
 <div align="center">
-    Welcome to our GitHub organization! We are a team of skilled professionals dedicated to providing high-quality freelance web development services. Whether you need a stunning website for your business, an e-commerce platform, or a custom web application, we've got you covered.
+    We are a team of skilled professionals dedicated to providing high-quality freelance web development services. Whether you need a stunning website for your business, an e-commerce platform, or a custom web application, we've got you covered.
 </div>
 
 ### 🤝 Services Offered
@@ -21,12 +21,15 @@ We are proficient in a wide range of technologies and frameworks, including but 
 
 - HTML5
 - CSS3 (Tailwind, Bootstrap, and others)
-- JavaScript (React.js, Next.js, Astro.js)
+- JavaScript (React, Next, Vue, Angular)
 - TypeScript
 - Node.js
 - PostgreSQL, MongoDB
+- C#
+- Google Analytics
+- AWS
 
 ### 📒 Contact Us
 
-- **Email**: [codeamosparavos.dev@gmail.com](mailto:codeamosparavos.dev@gmail.com)
+- **Email**: [novabytestudio.dev@gmail.com](mailto:novabytestudio.dev@gmail.com)
 - **Website**: [-](-)
