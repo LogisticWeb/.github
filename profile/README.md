@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/163340859?s=200&v=4" width="100" alt="Novabyte Studio Logo"> 
+    <img src="https://i.postimg.cc/x1s37vcP/nvs.png" width="130" alt="Novabyte Studio"> 
 </div>
 
 <div align="center">
