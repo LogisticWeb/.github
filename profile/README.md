@@ -83,7 +83,7 @@ We stay ahead of the curve with modern tools and technologies:
 We’d love to discuss how we can bring your vision to life.  
 
 - **Email**: [novabytestudio.dev@gmail.com](mailto:novabytestudio.dev@gmail.com)  
-- **Website**: [novabytestudio.netlify.app](https://novabytestudio.netlify.app)  
+- **Website**: [www.novabytestudio.com](https://www.novabytestudio.com)  
 
 ---
 
